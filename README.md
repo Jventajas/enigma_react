@@ -44,7 +44,7 @@ This project is a fully interactive, web-based simulation of the World War II-er
 
 ## Live Demo
 
-[Try the Enigma Machine Simulator](your-deployment-link-here)
+[Try the Enigma Machine Simulator](https://main.d336veba120xap.amplifyapp.com/)
 
 ## How It Works
 
@@ -65,10 +65,10 @@ This creates a unique encryption/decryption system where each letter is encoded 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/enigma-simulator.git
+git clone https://github.com/Jventajas/enigma_react.git
 
 # Navigate to project directory
-cd enigma-simulator
+cd enigma_react
 
 # Install dependencies
 npm install
